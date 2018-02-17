@@ -1,0 +1,4 @@
+---
+kubectl_should_shortcircuit: True
+additional_package_names:
+- kubectl
